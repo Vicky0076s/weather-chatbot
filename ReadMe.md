@@ -33,7 +33,7 @@ pip install streamlit requests
 ## ▶️ Run the App
 
 ```bash
-streamlit run weather_chatbot_pro.py
+streamlit run weather_chatbot.py
 ```
 
 ---
