@@ -40,7 +40,7 @@ streamlit run weather_chatbot_pro.py
 
 ## 📸 Screenshot
 
-(Add your screenshot here later 😏)
+
 
 ---
 
