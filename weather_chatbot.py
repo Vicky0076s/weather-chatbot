@@ -50,7 +50,7 @@ if user_input:
             geo_data = geo_res.json()
 
             if "results" not in geo_data:
-                reply = "Bhai city sahi lih 😅 mala sapadla nahi"
+                reply = "Please enter a valid city name 😅 I didnt found it"
 
             else:
                 lat = geo_data["results"][0]["latitude"]
