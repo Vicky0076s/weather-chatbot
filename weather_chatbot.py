@@ -39,7 +39,7 @@ if user_input:
     st.session_state.chat.append(("user", user_input))
 
     if city == "bye":
-        reply = "Bye bhai 😴"
+        reply = "Bye buddy 😴"
         st.session_state.chat.append(("bot", reply))
 
     else:
